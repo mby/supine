@@ -1,0 +1,4 @@
+fn main() {
+	let result = "hello" + " " + "world";
+	return result;
+}
